@@ -5,7 +5,9 @@ Projeto MVP de um auxiliar de gerenciamento de estoque em uma loja de automóvei
 ---
 ## Como executar 
 
-desenvolvido a partir do que foi exposto nas aulas e nos exemplos apresentados 
+## desenvolvido a partir do que foi exposto nas aulas e nos exemplos apresentados 
+
+criar um ambiente virtual, executar esse ambiente posteriormente
 Executar o comando abaixo
 
 ```

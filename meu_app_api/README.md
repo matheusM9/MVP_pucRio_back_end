@@ -1,10 +1,11 @@
 # MVP Full Stack Básico
 
-Projeto MVP de um auxiliar de gerenciamento de estoque em uma loja de automóveis 
+Projeto MVP de um auxiliar de gerenciamento de estoque em uma loja de automóveis
+
 ---
 ## Como executar 
 
-
+desenvolvido a partir do que foi exposto nas aulas e nos exemplos apresentados 
 Executar o comando abaixo
 
 ```
@@ -27,6 +28,4 @@ Para executar a API  basta executar:
 (env)$ flask run --host 0.0.0.0 --port 5000
 ```
 
-Em modo de desenvolvimento é recomendado executar utilizando o parâmetro reload, que reiniciará o servidor
-automaticamente após uma mudança no código fonte. 
 
